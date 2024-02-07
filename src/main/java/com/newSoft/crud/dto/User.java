@@ -24,6 +24,7 @@ public class User {
 	private long phone;
 	
 	private String password;
+	
 
 
 }
